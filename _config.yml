@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: AlexandremaestronI discovering AI!
+description: Hello and welcome to my blog. I am starting this blog while following the ELEC4630 Image processing and computer vision course under the supervision of Brian Lovell, Professor at the University of Queensland. Therefore at the start I will talk about what I learn while watching the fast.ai course and doing the assignement.
+github_username: AlexandreMaestroni
 
 # Email and twitter are optional:
-email:
+email:a.maestroni@uqconnect.edu.au
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
