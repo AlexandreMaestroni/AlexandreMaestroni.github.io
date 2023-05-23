@@ -1,9 +1,5 @@
 # Topic: Welcome to AI with fastai course
 
-Here's the table of contents:
-
-2. TOC
-{:toc}
 
 
 In this post I will talk about what I personally learned regarding AI while reading the fastai course.
