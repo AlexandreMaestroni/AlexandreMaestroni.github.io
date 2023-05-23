@@ -2,5 +2,4 @@ Hello and welcome to my blog. I am starting this blog while following the ELEC46
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
