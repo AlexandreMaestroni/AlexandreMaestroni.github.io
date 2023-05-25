@@ -8,3 +8,5 @@ It's ok I figure out that the zip file was broken.
 The next problem that I encountered was that an image wasn't there to be reshaped. Hopefully, it was only ffor one so I just make the code to continue after this.
 
 ![](/images/image2.png "code to detect the broken image")
+
+I finally decided to replace this image by a blank one, considering the number of images we got, it should not impact the result a lot.
