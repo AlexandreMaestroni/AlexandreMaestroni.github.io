@@ -1,4 +1,17 @@
 # Topic : What are the limitations of AI in the biomedical field
 
-I found interesting to do this topic because I am also following BIOE6901 and the developement of AI in the biomedical field is in our project.
+  I found interesting to do this topic because I am also following BIOE6901 and the developement of AI in the biomedical field is in our projects.
 
+  Artificial Intelligence (AI) has made remarkable strides in various domains, including the biomedical field. Its potential to revolutionize healthcare and improve patient outcomes is undeniable. However, it is crucial to acknowledge that AI also has its limitations. Understanding these limitations is essential for ensuring responsible and informed implementation of AI technologies in biomedical research and clinical practice.
+
+  One of the primary challenges in applying AI to the biomedical field is the availability of high-quality, labeled datasets. The scarcity of diverse and well-annotated data can hinder the development and generalization of AI algorithms. Gathering comprehensive and reliable data that covers various medical conditions, demographics, and treatment modalities remains a significant obstacle.
+
+  AI in the biomedical field raises ethical concerns regarding patient privacy, informed consent, and data security. Preserving patient confidentiality and ensuring data privacy become crucial issues when utilizing sensitive medical data. Striking a balance between the potential benefits of AI and protecting patients' rights and privacy requires careful consideration and robust ethical frameworks.
+
+  AI models often operate as "black boxes," making it challenging to understand and interpret their decision-making processes. In critical medical applications, such as diagnostics and treatment recommendations, interpretability becomes crucial. The lack of explainability limits the trust and acceptance of AI systems in healthcare, as medical professionals need to comprehend the underlying reasoning behind AI-generated predictions or recommendations.
+
+  AI models trained on specific datasets may struggle to generalize to diverse patient populations or different healthcare settings. Biomedical data can exhibit variations due to factors like genetic differences, environmental influences, and regional disparities in healthcare practices. Models trained on a limited subset of data may not adequately capture this variability, leading to suboptimal performance and reduced efficacy when applied to new populations or settings.
+
+  AI systems excel at processing vast amounts of data and identifying patterns. However, they often lack the human context and domain expertise that healthcare professionals possess. The ability to consider factors like patient history, comorbidities, and social determinants of health is essential in clinical decision-making. Integrating AI as a supportive tool alongside human expertise, rather than a replacement, is crucial for effective and safe implementation.
+
+  While AI holds immense potential in the biomedical field, it is vital to recognize and address its limitations. Insufficient data availability, ethical concerns, interpretability challenges, limited generalization, and the need for human context are among the key limitations of AI in biomedicine. By acknowledging these limitations and working towards responsible AI development, researchers, healthcare professionals, and policymakers can maximize the benefits of AI while mitigating potential risks, ultimately improving patient care and advancing biomedical research.
