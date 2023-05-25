@@ -6,3 +6,5 @@ I am trying to load it at a zip and make google collab unzip it but at the momen
 It's ok I figure out that the zip file was broken.
 
 The next problem that I encountered was that an image wasn't there to be reshaped. Hopefully, it was only ffor one so I just make the code to continue after this.
+
+![](/images/image2.png "code to detect the broken image")
