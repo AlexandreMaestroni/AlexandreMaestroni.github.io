@@ -5,4 +5,4 @@ Today, I tried to adpt the bird code to classify my 10 animals. The first proble
 
 I am currently having issues with some images because the name of an animal can be also linked to a brand. For example the panther are a hockey team so I have sometimes a photo of a hockey player.
 
-![](/images/Capture d’écran 2023-05-25 à 17.46.19.png "exemple of awkward and classic animals")
+![](/images/image1.png "exemple of awkward and classic animals")
